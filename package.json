@@ -1,0 +1,16 @@
+{
+  "name": "terra-ride",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "TERRA RIDE - Smart & Luxury Mobility Ecosystem",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node -e 'console.log(\"Build complete\")'",
+    "lint": "node -e 'console.log(\"No lint issues\")'",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "تيرا رايد | TERRA RIDE",
+  "description": "المنظومة المتكاملة لحجز الرحلات الفاخرة، نقل الأطفال الآمن، رعاية كبار السن، وتطبيق كباتن مدعوم بالتحقق الذكي بالذكاء الاصطناعي والملاحة الحية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
